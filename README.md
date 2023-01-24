@@ -1,9 +1,9 @@
 # iRIC_definition_example_gridcreator
 
-iRIC(https://i-ric.org/)の格子作成ツール作成の際に必要となる`definition.XML`のサンプル
+iRIC( https://i-ric.org/ )の格子作成ツール作成の際に必要となる`definition.XML`のサンプル
 格子生成ツール用として作っているが、ほとんどの内容はソルバーのものと共通
 
-詳しい解説はここ（https://iric-solver-dev-manual.readthedocs.io/ja/v4_jp/05_about_definition_file.html）
+詳しい解説はここ（ https://iric-solver-dev-manual.readthedocs.io/ja/v4_jp/05_about_definition_file.html ）
 
 マニュアルに載っていない要素をつかってたりもします。
 
